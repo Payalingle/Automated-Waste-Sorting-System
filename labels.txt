@@ -1,0 +1,8 @@
+0 Nothing
+1 Bottle
+2 Newspaper
+3 Bulb
+4 Tomato
+5 Onion
+6 Cell
+7 Paste
